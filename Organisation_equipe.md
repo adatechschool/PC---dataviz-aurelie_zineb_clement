@@ -4,11 +4,22 @@
 
 ## Roadmap
 
-- Produire un découpage de features et créer autant  d'"issues" sur votre repo (selon la méthode vue avec Adrien en plénière)
+-Choix de l'API
+-Contextualisation (Ce choix d'API est-il pertinent, dans quelle mesure, pour répondre à quels besoins/demandes...)
+-Réflexion sur la manière d'intéragir avec l'API (a t'on besoin d'un serveur etc)
+-Choix de ne pas utiliser de serveur
+-Choisir ce que l'on va utiliser pour la dynamisation des données (actualisation toutes les X heures, à X heure définie de la journée etc)
+-Parser les données de l'API afin de ne récuperer que ce que l'on souhaite et ce qu'on a besoin de traiter.
+-Créer une page HTML
+-Mettre en lien la page HTML et le JS.
+-Une fois le lien éffectué, récuperer et afficher les données sélectionnées de l'API dans la page HTML selon l'heure choisie pour la dynamisation.
+-Automatiser l'étape précedente.
+-Trouver et choisir comment gérer les rafraichissements de la page HTML.
+-Intégrer des feuilles de style CSS.
 
 
 ## Mode de fonctionnement 
 
-- Expliciter ici sous quel mode vous allez fonctionner : en mob programming à 3 ou 4, et pair programming par binômes, individuellement, etc.
-- Si vous ne travaillez pas en mob programming, indiquez également quels sont les rituels que vous comptez mettre en place pour (1) faire des points de synchronisation au sein de l'équipe et partager votre avancement et (2) mettre en commun votre code et vérifier que l'ensemble du projet fonctionne bien.
-- Notez enfin les règles de gestion que vous décidez de mettre en place pour le repo : utilisation des branches, utilisation des pulls requests, process de validation des pulls requests avant de les fusionner, etc.
+LES DEUX PREMIERS JOURS :
+- Répartition des taches individuellement
+- Mise en commun +/- toutes les heures
