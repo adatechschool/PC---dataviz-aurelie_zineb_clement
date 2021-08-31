@@ -1,5 +1,9 @@
-# Projet_Collectif_Template
+# Projet_Collectif_DATAVIZ
 
-Ce dépôt Git vous sert de base de travail pour les projets collectifs : en cliquant sur le lien fourni par l'encadrante, celui-ci sera automatiquement copié dans la dépôt que vous créerez pour ce projet.
+DATAVIZ pour DATA VISUALISATION.
+Le but de ce projet est de nous faire travailler sur la visualisation de données, via une/ des API, sur une page HTML.
 
-Il ne vous reste plus qu'à vous lancer sur le projet collectif, et à mettre à jour le dépôt au fil de l'eau !
+Nous avons décidé d'utiliser les API d'Open Data Paris et de Google Map, pour mettre en avant des portraits de femmes célèbres qui ont marquées Paris.
+
+Cloner le repo "main" pour naviguer dans le projet final.
+Les branches représentent les différents essais que nous avons pu faire, sans que nous ayons finalisé ces modèles.
