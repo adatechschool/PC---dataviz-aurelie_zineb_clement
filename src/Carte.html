@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/main.css" />
+	<link rel="stylesheet" href="assets/css/custom.css" />
+    <title>Carte embellie de Paris</title>
+    <button class="button big"><a href="Index.html" target="_blank">Retour aux portraits</a></button>	
+    <script src="APIFetchMap.js"> </script>
+</head>
+
+<body class="is-preload">
+
+        <!-- Wrapper -->
+        <div id="wrapper">
+    
+            <!-- Main -->
+            <div id="main">
+                <div class="inner">
+    
+                    <!-- Header -->
+                    <header id="header">
+                        <p class="logo"><strong>FEMMES ILLUSTRES DE PARIS</strong></p>
+                    </header>
+    
+                    <!-- Banner -->
+			
+        <div id="map"></div>
+
+        <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+        <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZ1JjkUc04qVnqJT7Y_lRTBXxd-FMqvmI&callback=initMap&libraries=&v=weekly"
+        async
+        ></script>
+        <script src="https://unpkg.com/@googlemaps/markerclustererplus/dist/index.min.js"
+        async
+        ></script>
+
+</body>
+</html>
